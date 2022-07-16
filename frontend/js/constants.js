@@ -1,7 +1,7 @@
 const contractAddress = "Y0x89753F468e011c65e184d2687f2a2CAFEF303Cca"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the L7 pack!!";
+const welcome_h1 = "Welcome to the pack!!";
 const welcome_h2 = "Connect to MetaMask to look into the den";
 const welcome_p = 'We make our own path here at Lucky 7s Official. If you hold a L7 wolf then you are part of the pack. We look out for each other and thrive with each other!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
