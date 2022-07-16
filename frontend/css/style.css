@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Cormorant SC', serif;";
-  --font-secondary: "Cormorant SC', serif;";
-  --font-code: "Cormorant SC', serif;";
+  --font-primary: "'Cormorant SC', serif;";
+  --font-secondary: "'Cormorant SC', serif;";
+  --font-code: "'Cormorant SC', serif;";
   --bg-color: #000000;
   --bg-color-transparent: #00163f80;
   --font-color: #10e418;
