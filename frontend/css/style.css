@@ -8,10 +8,10 @@
   --font-primary: "CCormorant SC', serif;";
   --font-secondary: "Cormorant SC', serif;";
   --font-code: "Cormorant SC', serif;";
-  --bg-color: #000000;
+  --bg-color: #ffffff;
   --bg-color-transparent: #00163f80;
-  --font-color: #caab00;
-  --btn-bg-color: #caab00;
+  --font-color: #000000;
+  --btn-bg-color: #ffffff;
   --accent-color: #10e418;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
