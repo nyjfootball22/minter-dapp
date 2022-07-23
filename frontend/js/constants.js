@@ -22,10 +22,8 @@ const button_public_mint = "Mint Your L7 wolf";
 const mint_failed = "Minting failed. Be strong, try again.";
 
 const abi = 
+[
 {
-  "response": "OK",
-  "abi": [
-    {
       "inputs": [
         {
           "components": [
@@ -1509,4 +1507,3 @@ const abi =
       "signature": "0x476343ee"
     }
   ]
-}
