@@ -21,6 +21,7 @@ const button_presale_already_minted = "Join The Pack";
 const button_public_mint = "Mint Your L7 wolf";
 const mint_failed = "Minting failed. Be strong, try again.";
 
+const abi = 
 {
   "response": "OK",
   "abi": [
